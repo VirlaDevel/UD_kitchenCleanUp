@@ -14,7 +14,7 @@ The game can be startet and stopped with a big red button. Anyway, the game's du
 ## Software and Hardware
 
 The project was conducted with the Unreal Engine 4.15.3, the Oculus Audio Plugin and some additional ".wav files" downloaded from www.freesound.org, and http://www.grsites.com/archive/sounds, respectively. The environment was provided by udacity's project team "Learn Unreal VR Foundations" as template. Additional assets (plate warmer, crashed plate and hands) were designed by the project team with ZBrush 4R8 and Maya 2018.
-The project was tested with the HTC Vive, but should work with the Oculus Rift as well.
+The project has been tested with the HTC Vive, but should work with the Oculus Rift as well.
 
 ## Annotations
 
