@@ -23,4 +23,4 @@ The player may posess the myVR_pawn with two hands, which have a custom animatio
 ## Annotations
 
 This project has been conducted by Dejan Popic and Sebastian Strahm. Both working at the Swiss Distance Learning Universtiy.
-Last Changes: 02.05.2018
+Last Changes: 30.05.2018
